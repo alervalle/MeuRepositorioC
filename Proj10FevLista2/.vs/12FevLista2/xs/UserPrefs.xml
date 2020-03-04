@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4DF4E710-ACD0-41B1-9BCF-DBCDAB886635}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="12FevLista2/Program.cs">
+    <Files>
+      <File FileName="12FevLista2/Program.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="12FevLista2" expanded="True">
+            <Node name="12FevLista2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.12FevLista2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
