@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A22C0AC8-D54E-4DE9-BB4E-CF67EB2E2ECC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lista4Real/Program.cs">
+    <Files>
+      <File FileName="Lista4Real/Program.cs" Line="153" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lista4Real" expanded="True">
+            <Node name="Lista4Real" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lista4Real PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
