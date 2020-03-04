@@ -1,0 +1,22 @@
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.deps.json
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.runtimeconfig.json
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.runtimeconfig.dev.json
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.dll
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.pdb
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.csprojAssemblyReference.cache
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.AssemblyInfoInputs.cache
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.AssemblyInfo.cs
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.dll
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Projetos VS/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.pdb
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.deps.json
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.runtimeconfig.json
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.runtimeconfig.dev.json
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.dll
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/bin/Debug/netcoreapp3.1/12FevAula5Parte2.pdb
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.csprojAssemblyReference.cache
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.AssemblyInfoInputs.cache
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.AssemblyInfo.cs
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.dll
+/Users/AlexandreValle/Desktop/CodingWorkSpace/Full Stack/Main/Semana 2/Aula 5 - 12 Fev/12FevAula5Parte2/12FevAula5Parte2/obj/Debug/netcoreapp3.1/12FevAula5Parte2.pdb

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6898345B-9C66-4C80-9267-4FA9282ECC68}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="12FevAula5Parte2/Program.cs">
+    <Files>
+      <File FileName="12FevAula5Parte2/Program.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="12FevAula5Parte2" expanded="True" selected="True">
+            <Node name="12FevAula5Parte2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.12FevAula5Parte2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
